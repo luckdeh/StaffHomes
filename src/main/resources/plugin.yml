@@ -1,0 +1,8 @@
+name: StaffHomes
+version: '${project.version}'
+main: me.luckdeh.staffhomes.StaffHomes
+api-version: '1.20'
+commands:
+  staffhome:
+    description: Main command for staffhomes plugin
+    permission: staffhomes.staffhomes
